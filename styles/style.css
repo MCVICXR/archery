@@ -1,0 +1,31 @@
+/* !CSS */
+
+/* commence primary ignition */
+
+* {
+    box-sizing: border-box;
+  }
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+body { 
+    font-family: sans-serif;
+    background-position: center;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+
+/* end primary ignition */
+
+/* start header */
+
+header {
+  width: 100%;
+  
+}
+
+/* end header */ 
