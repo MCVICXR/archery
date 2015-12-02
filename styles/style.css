@@ -1,0 +1,126 @@
+/* !CSS */
+
+/* commence primary ignition */
+
+* {
+    box-sizing: border-box;
+  }
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+body { 
+    font-family: sans-serif;
+    background-position: center;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background-color: #513f35;
+  }
+
+/* end primary ignition */
+
+/* start header */
+
+header {
+  width: 100%;
+}
+
+img {
+  height: 26%;
+  width: 26%;
+  float: left;
+}
+
+h1 {
+  color: #92c44a;
+  width: 74%;
+  text-align: center;
+  margin: 0 auto;
+  float: left;
+  padding-top: 1.75rem;
+}
+
+h1 ul li {
+  list-style: none;
+  width: 76%;
+  font-size: 4rem;
+  font-weight: 400;
+  margin: 0 auto;
+}
+h1 ul li:first-child {
+  font-size: 6rem;
+}
+h1 ul li:last-child {
+  font-size: 6rem;
+}
+
+/* end header */ 
+
+/* start nav */
+
+nav a {
+  text-decoration: none;
+}
+
+nav {
+  clear: both;
+  width: 100%;
+  height: 5rem;
+  background-color: #92887f;
+}
+
+nav ul li {
+  width: 20%;
+  list-style: none;
+  float: left;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+/* end nav */
+
+/* start body */
+
+.content img {
+  width: 100%;
+}
+
+/* end body */
+
+/* start footer */
+
+footer {
+  clear: all;
+  width: 100%;
+  height: 3rem;
+  background-color: #92887f;
+}
+footer ul {
+
+}
+
+/* end footer */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
